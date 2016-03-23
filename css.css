@@ -1,0 +1,53 @@
+body {
+    font-family: monospace;;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+.button {
+    border-radius:5px;
+    width: 40px;
+
+    position: relative;
+    float:right;
+}
+
+
+button {
+    position: relative;
+    float:right;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
+
+#container {
+    width:50%;
+    margin:auto;
+    padding: 0 25px 40px 10px;
+    background-color: #ffa500;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+#byrja {
+    display:none;
+    width: 90px;
+}
